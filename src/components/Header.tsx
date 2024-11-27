@@ -5,7 +5,6 @@ function Header() {
     return (
         <header className={styles.container}>
             <img
-                className={styles.logo}
                 src={LogoTitle}
                 alt="logotipo Todo" />
         </header>
