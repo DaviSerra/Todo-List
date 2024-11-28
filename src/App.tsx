@@ -14,7 +14,7 @@ function App() {
           <Input />
           <Button>
             Criar
-            <PlusCircle size={20} color='#F2F2F2' weight='bold'/>
+            <PlusCircle size={21} color='#F2F2F2' weight='bold'/>
           </Button>
         </div>
       </section>
