@@ -9,7 +9,7 @@ function App() {
   return (
     <main>
       <Header />
-      <section className={styles.content}>
+      <section className={styles.content}> 
         <div className={styles.tasksGroup}>
           <Input />
           <Button>
