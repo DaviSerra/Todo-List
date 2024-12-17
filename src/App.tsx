@@ -12,7 +12,7 @@ function App() {
       <section className={styles.content}> 
         <div className={styles.tasksGroup}>
           <Input />
-          <Button>
+          <Button> 
             Criar
             <PlusCircle size={21} color='#F2F2F2' weight='bold'/>
           </Button>
